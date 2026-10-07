@@ -9,6 +9,7 @@ This project provides an interactive environment for exploring Formula 1 session
 The dashboard transforms real motorsport data retrieved through the FastF1 library into interactive visualizations, allowing users to compare drivers, examine performance trends, and investigate different aspects of a racing session.
 
 The main objective is to combine **data processing, exploratory analysis, and interactive visualization** into a single application.
+**[Launch the Interactive F1 Dashboard](https://f1-performance-dashboard-sara.streamlit.app/)**
 
 ## Features
 
