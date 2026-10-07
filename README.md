@@ -11,6 +11,7 @@ This repository explores different aspects of Formula 1 performance through data
 ### 1. F1 Performance Dashboard
 
 Interactive Streamlit dashboard for exploring Formula 1 session data.
+[View Project](projects/01_performance_dashboard) | [Live Dashboard](https://f1-performance-dashboard-sara.streamlit.app/)
 
 Main features:
 
