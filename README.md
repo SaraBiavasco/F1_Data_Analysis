@@ -4,14 +4,11 @@ A collection of Formula 1 data analysis projects developed in Python using real 
 
 This repository explores different aspects of Formula 1 performance through data analysis, visualization, telemetry and predictive modelling.
 
-![F1 Performance Dashboard](assets/dashboard_preview.png)
-
 ## Projects
 
 ### 1. F1 Performance Dashboard
 
 Interactive Streamlit dashboard for exploring Formula 1 session data.
-[View Project](projects/01_performance_dashboard) | [Live Dashboard](https://f1-performance-dashboard-sara.streamlit.app/)
 
 Main features:
 
